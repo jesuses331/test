@@ -32,7 +32,7 @@ Paso a paso de lo que debes ejecutar para tener el proyecto ejecutandose
     ```
     composer install
     ```
- 5. Crea el archivo ".env" copiando la información del [ejemplo](https://github.com/jesusse331/test/.env.example) y cambiar valores de su Base de datos.
+ 5. Crea el archivo ".env" copiando la información del [ejemplo](.env.example) y cambiar valores de su Base de datos.
  6. Ejecute las migraciones
     ```
     php artisan migrate 
